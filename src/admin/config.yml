@@ -1,6 +1,7 @@
 backend:
   name: timothyalcaide
   repo: timothyalcaide/blog
+  branch: master
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
